@@ -1,8 +1,3 @@
-Perfect! Let’s make a **professional README.md** for your Inventory Management project with all the elements you asked for: banner, badges, username, and clear instructions.
-
-Here’s a polished version you can directly use:
-
-```markdown
 <p align="center">
   <img src="banner.png" alt="Inventory Management Banner" width="800"/>
 </p>
