@@ -1,0 +1,26 @@
+Item_ID:1
+Item_Name:Soap
+Category:Personal Care
+Quantity:50
+Price:30
+Supplier_Name:CleanCo
+Added_Date:2025-09-21
+_____________________________________
+
+Item_ID:2
+Item_Name:Shampoo
+Category:Personal Care
+Quantity:20
+Price:150
+Supplier_Name:HairCareLtd
+Added_Date:2025-09-21
+_____________________________________
+
+Item_ID:3
+Item_Name:Notebook
+Category:Stationery
+Quantity:100
+Price:50
+Supplier_Name:PaperGoods
+Added_Date:2025-09-21
+_____________________________________

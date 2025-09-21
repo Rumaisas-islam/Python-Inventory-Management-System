@@ -1,0 +1,21 @@
+# Python cache & environment
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.env
+*.venv
+env/
+venv/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Inventory data files (keep local, don't push)
+inventory.txt
+*_backup.txt
+
+# Test run outputs (optional)
+test/*.txt
+test/__pycache__/
